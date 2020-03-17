@@ -1,11 +1,4 @@
-Ansh ag759@cornell.eduPooja pg334@cornell.eduRegina rac389@cornell.edu
-Anna atb75@cornell.edu
-Anuhya at693@cornell.edu
-Sabhya ssc255@cornell.edu
-Ruchika rd438@cornell.edu
-Divya dt377@cornell.edu
-Shreya sv354@cornell.edu
-Felisha fal46@cornell.edu
-Aparato as2537@cornell.edu
-Alex cal368@cornell.edu
-Archana as2959@cornell.edu
+Example1 <example1_email>
+Example2 <example2_email>
+Foo <Foo_email>
+Bar <Bar_email>
